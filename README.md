@@ -12,21 +12,14 @@ You can create a VM without starting it. You can determine whether the VM needs 
 To create a VM from a template:
 
     Log in to the CloudStack UI as an administrator or user.
-
     In the left navigation bar, click Instances.
-
     Click Add Instance.
-
     Select a zone.
-
-    Select a template, then follow the steps in the wizard. For more information about how the templates came to be in this list, see *Working with Templates*.
-
+    Select a template, then follow the steps in the wizard.
     Be sure that the hardware you have allows starting the selected service offering.
-
     Click Submit and your VM will be created and started.
 
     Note
-
     For security reason, the internal name of the VM is visible only to the root admin.
 
 To create a VM from an ISO:
