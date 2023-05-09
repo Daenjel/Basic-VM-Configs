@@ -1,9 +1,9 @@
 # Basic-VM-Configs
 Getting started with Virtual Machines
 
-# <a href="http://docs.cloudstack.apache.org/projects/archived-cloudstack-administration/en/latest/virtual_machines.html#creating-vms" target="_blank">Creating VMs</a>
+# Creating VMs
 
-Virtual machines are usually created from a template. Users can also create blank virtual machines. A blank virtual machine is a virtual machine without an OS template. Users can attach an ISO file and install the OS from the CD/DVD-ROM.
+Virtual machines are usually created from a template. Users can also  <a href="http://docs.cloudstack.apache.org/projects/archived-cloudstack-administration/en/latest/virtual_machines.html#creating-vms" target="_blank">create blank virtual machines</a>. A blank virtual machine is a virtual machine without an OS template. Users can attach an ISO file and install the OS from the CD/DVD-ROM.
 
 Note
 
